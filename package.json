@@ -14,9 +14,17 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
     "vite": "^5.1.0"
   },
-  "keywords": ["analytics", "website", "views", "statistics"],
+  "keywords": [
+    "analytics",
+    "website",
+    "views",
+    "statistics"
+  ],
   "author": "OBi",
   "license": "ISC"
 }
